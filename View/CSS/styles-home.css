@@ -6,6 +6,7 @@
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
 }
+
 .main{
     display: flex;
     margin-bottom: 200px;
@@ -22,9 +23,11 @@
 .navbar{
     padding: 20px;
 }
+
 .nav-principal{
     display: flex;
 }
+
 .nav-principal li{
     list-style: none;
     transition: all 0.4s;
